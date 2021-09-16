@@ -1,0 +1,13 @@
+
+ما الذي ترمز إليه كلمة HTML
+HTML = ?
+the html element represents the root of html document
+
+Question 01 =>  No
+Question 02 => Yes 
+Question 03 => No
+Question 04 => No
+
+
+
+
